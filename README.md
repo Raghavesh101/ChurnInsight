@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Develop and Deploy A Customer Churn Prediction Model using Python, Streamlit and Docker
 
 
@@ -49,3 +50,6 @@ You can now view your Streamlit app in your browser.
 
 - https://www.youtube.com/watch?v=RhRIFjyzIqU&t=34s
 
+=======
+# ChurnInsight
+>>>>>>> 26d4f02f346113e26146e9c167b4174caafe2c82
